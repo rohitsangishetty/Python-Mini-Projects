@@ -1,0 +1,1 @@
+These are Python mini projects that are open source. They are small games / programs that can be further edited, as the versions I created are purposefully left "unfinished". These games are text games that should be played in the terminal. The projects include a trivia game, rock paper scissors, "choose your own adventure", number guesser, and a password manager.
